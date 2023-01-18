@@ -1,0 +1,31 @@
+_repo: The-square-pegs_69708
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bradbury, Ray
+    aliases:
+    - Elliott, William
+    - Bradbury, Raymond Douglas
+    birthdate: 1920
+    deathdate: 2012
+    gutenberg_agent_id: '41269'
+    url: http://www.gutenberg.org/2009/agents/41269
+    wikipedia: https://en.wikipedia.org/wiki/Ray_Bradbury
+description: ''
+gutenberg_issued: '2023-01-05'
+identifiers:
+  gutenberg: '69708'
+language: en
+pgterms:marc905: 20220520115925bradbury
+pgterms:marc906: '1948'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: 'United States: Standard Magazines, Inc.,1948.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The square pegs
+url: http://www.gutenberg.org/ebooks/69708
